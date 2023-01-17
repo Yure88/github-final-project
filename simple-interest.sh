@@ -6,7 +6,7 @@
 
    # Autor: Upkar Lidder (IBM)
    # Autores adicionales:
-   # <su nombre de usuario de GitHub>
+   #Yure88
 
    # Entrada:
    # p, importe principal
@@ -26,4 +26,5 @@
    s=`expr $p \* $t \* $r / 100`
    echo "El interés simple es: "
    echo $s
+
 
